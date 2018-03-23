@@ -9,10 +9,10 @@ This project supportes the following two functions.
 This will plot bar plot for categorical variables and scatter plot for continous variables.
 
 * Bar plot for categorical variable:
-![alt text](img/barplot.png)
+![bar plot](img/barplot.png)
 
 * 3D scatter plot:
-![alt text](img/3D scatter.gif)
+![scatter plot](img/3D scatter.gif)
 
 This demo is the plot of heart rate through time, and users can choose to hightlight some patients by red crosses.
 
