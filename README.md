@@ -9,7 +9,7 @@ This project supportes the following two functions.
 This will plot bar plot for categorical variables and scatter plot for continous variables.
 
 * Bar plot for categorical variable:
-![](img/bar plot.png)
+![](Dash-App/img/bar plot.png)
 
 * 3D scatter plot:
 ![](img/3D scatter.gif)
